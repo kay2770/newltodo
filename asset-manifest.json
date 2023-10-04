@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/newtodo/static/js/main.c9804843.js",
-    "index.html": "/newtodo/index.html",
-    "main.c9804843.js.map": "/newtodo/static/js/main.c9804843.js.map"
+    "main.js": "/newltodo/static/js/main.1791329c.js",
+    "index.html": "/newltodo/index.html",
+    "main.1791329c.js.map": "/newltodo/static/js/main.1791329c.js.map"
   },
   "entrypoints": [
-    "static/js/main.c9804843.js"
+    "static/js/main.1791329c.js"
   ]
 }
